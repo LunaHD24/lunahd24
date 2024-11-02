@@ -3,7 +3,7 @@
 
 #### I'm currently working on:
 - A website about me which will contain a blog
-- Paper Plugin 'OreMine' in coop with [Silal123](https://github.com/Silal123 "Silal123")
+- Paper Plugin 'OreMine'
 
 <!--
 **LunaHD24/lunahd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
