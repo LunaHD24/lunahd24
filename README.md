@@ -1,9 +1,9 @@
 ## Hey :)
-### I'm a 15yr old Java developer, interested in Application Development
+### I'm a 16yr old Java developer, interested in Application Development
 
 #### I'm currently working on:
-- A website about me which will contain a blog
-- Paper Plugin 'OreMine'
+- Just a bunch of random things
+- A paper plugin aiming to make the game more realistic
 
 <!--
 **LunaHD24/lunahd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
