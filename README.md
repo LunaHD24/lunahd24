@@ -4,6 +4,7 @@
 #### I'm currently working on:
 - Just a bunch of random things
 - A paper plugin aiming to make the game more realistic
+- A paper plugin (library) for creating custom status effects
 
 <!--
 **LunaHD24/lunahd24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
